@@ -1,0 +1,28 @@
+/* ExerciseTable.css */
+
+.exercise-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .exercise-cell {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .exercise-img {
+    width: 277px;
+    height: 173px;
+    object-fit: cover;
+  }
+  
+  .exercise-name {
+    margin-top: 5px;
+    font-size: 24px;
+    color: #3498db; /* Set the link color (replace with your preferred color) */
+  }
+  
+  .exercise-name:hover {
+    text-decoration: underline; /* Add underline on hover if desired */
+  }

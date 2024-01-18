@@ -1,0 +1,63 @@
+.whole3
+{
+  background-image: url("https://foxhoundstudio.com/wp-content/uploads/2019/07/ideal-male-body-fat-percentage-most-attractive-too-lean-abs-health.jpg");
+  background-size: cover;
+}
+
+.body-fat-calculator {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+    top: 10vh;
+    background-color: white;
+    margin-left: 10%;
+    margin-top: 1%;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  select,
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 8%;
+  }
+  .hi{
+    margin-left: 07%;
+    height: 100%;
+  }
+  
+  img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    margin-top: 20px;
+  }
+
+  .image
+  {
+    margin-top: 15%;
+    margin-right: 10%;
+    height: 491px;
+  }

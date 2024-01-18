@@ -1,0 +1,66 @@
+.hi{
+    height: 317px;
+}
+.Cities{
+    min-width: 50%;
+}
+
+.Cityname{
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.form{
+    justify-content: 'center';
+    align-items: 'center';
+}
+.font{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fontform{
+    font-family: 'Times New Roman', Times, serif;
+}
+.submitform{
+    min-width: 50%;
+}
+.franchise-page {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #B09AB2;
+    padding-right: 2%;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: #ff0055;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  select{
+    width: 100%;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 100%;
+    padding-left: 3%;
+    }
